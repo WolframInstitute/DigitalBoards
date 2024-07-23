@@ -1,2 +1,2 @@
 # DigitalBoards
-Lecture notes, digital whiteboards, livestream sketches.
+Lecture notes, digital whiteboards, and livestream sketches.
